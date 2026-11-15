@@ -1,0 +1,12 @@
+CREDITOS (todos os arquivos de arte e audio sao CC0 - dominio publico)
+
+Arte / UI / fonte - Kenney (www.kenney.nl), licenca CC0:
+  Space Shooter Remastered, Explosion Pack, Particle Pack,
+  UI Pack Sci-fi (inclui a fonte Kenney Future)
+Audio - Kenney, licenca CC0:
+  Sci-Fi Sounds, Digital Audio, Interface Sounds, Music Loops
+  (Space Cadet, Infinite Descent, Mission Plausible, Game Over)
+
+O icone do app e um sprite do pack sobre um tile de fundo do mesmo pack.
+Nenhum sprite, som ou efeito e gerado por codigo: o codigo apenas carrega,
+posiciona e anima os arquivos da pasta app/src/main/assets.
